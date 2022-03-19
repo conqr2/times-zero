@@ -1,0 +1,22 @@
+{
+  "name": "times-zero",
+  "version": "1.0.0",
+  "description": "Simple npm package that tells you what a number multiplied by zero is!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conqr2/times-zero.git"
+  },
+  "keywords": [
+    "times-zero"
+  ],
+  "author": "conqr2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/conqr2/times-zero/issues"
+  },
+  "homepage": "https://github.com/conqr2/times-zero#readme"
+}
